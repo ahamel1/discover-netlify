@@ -8,4 +8,4 @@
 
 ## Deployment
 
-* Link to the website deployed on Netlify : [https://heuristic-northcutt-e092fa.netlify.com/]()
+* Link to the website deployed on Netlify : https://heuristic-northcutt-e092fa.netlify.com
